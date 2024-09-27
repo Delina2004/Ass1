@@ -12,7 +12,7 @@ int main()
         return 0;
     }
 
-    int binary[32];  //int is 32 bites.
+    int binary[32];  //int is 32 bites
     int i = 0;
 
     while (num > 0) {
